@@ -1,4 +1,4 @@
-var LWO_URL = "https://api.flightradar24.com/common/v1/airport.json?code=lwo&page=-2";//&token=GsQU-D3kungjoCc3yrdp-cq2Vvu48iIu3UNSaNry8go
+var LWO_URL = "https://api.flightradar24.com/common/v1/airport.json?code=lwo";//&token=GsQU-D3kungjoCc3yrdp-cq2Vvu48iIu3UNSaNry8go
 //&plugin%5Bschedule%5D=schedule&plugin-setting%5Bschedule%5D%5Bmode%5D=arrivals&page=-1
 var cheerio = require('cheerio');
 var request = require('request');
